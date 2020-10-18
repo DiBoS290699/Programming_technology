@@ -1,0 +1,14 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Prime_number.cpp
+C:\Users\DiBoS\Desktop\Labs\Programming technology\Lab1\Prime_number\Prime_number\Prime_number.cpp(18,1): warning C4273: fibonacci_init: несовместимое связывание dll
+C:\Users\DiBoS\Desktop\Labs\Programming technology\Lab1\Prime_number\Prime_number\Prime_number.h(22,33): message : см. предыдущее определение "fibonacci_init"
+C:\Users\DiBoS\Desktop\Labs\Programming technology\Lab1\Prime_number\Prime_number\Prime_number.cpp(27,1): warning C4273: fibonacci_next: несовместимое связывание dll
+C:\Users\DiBoS\Desktop\Labs\Programming technology\Lab1\Prime_number\Prime_number\Prime_number.h(28,33): message : см. предыдущее определение "fibonacci_next"
+C:\Users\DiBoS\Desktop\Labs\Programming technology\Lab1\Prime_number\Prime_number\Prime_number.cpp(48,1): warning C4273: fibonacci_current: несовместимое связывание dll
+C:\Users\DiBoS\Desktop\Labs\Programming technology\Lab1\Prime_number\Prime_number\Prime_number.h(31,47): message : см. предыдущее определение "fibonacci_current"
+C:\Users\DiBoS\Desktop\Labs\Programming technology\Lab1\Prime_number\Prime_number\Prime_number.cpp(54,1): warning C4273: fibonacci_index: несовместимое связывание dll
+C:\Users\DiBoS\Desktop\Labs\Programming technology\Lab1\Prime_number\Prime_number\Prime_number.h(34,37): message : см. предыдущее определение "fibonacci_index"
+  Создание кода...
+     Создается библиотека C:\Users\DiBoS\Desktop\Labs\Programming technology\Lab1\Prime_number\Debug\Prime_number.lib и объект C:\Users\DiBoS\Desktop\Labs\Programming technology\Lab1\Prime_number\Debug\Prime_number.exp
+  Prime_number.vcxproj -> C:\Users\DiBoS\Desktop\Labs\Programming technology\Lab1\Prime_number\Debug\Prime_number.dll
