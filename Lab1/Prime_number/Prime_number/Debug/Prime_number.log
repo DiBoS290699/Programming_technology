@@ -1,5 +1,3 @@
 ﻿  Prime_number.cpp
-C:\Users\DiBoS\Desktop\Labs\Programming technology\Lab1\Prime_number\Prime_number\Prime_number.cpp(6,1): warning C4273: isPrime: несовместимое связывание dll
-C:\Users\DiBoS\Desktop\Labs\Programming technology\Lab1\Prime_number\Prime_number\Prime_number.h(9,33): message : см. предыдущее определение "isPrime"
 C:\Users\DiBoS\Desktop\Labs\Programming technology\Lab1\Prime_number\Prime_number\Prime_number.cpp(7,46): warning C4244: аргумент: преобразование "unsigned __int64" в "double", возможна потеря данных
   Prime_number.vcxproj -> C:\Users\DiBoS\Desktop\Labs\Programming technology\Lab1\Prime_number\Debug\Prime_number.dll
